@@ -7,4 +7,8 @@ angular.module('adiApp')
       'AngularJS',
       'Karma'
     ];
+
+    $scope.reverseThings = function () {
+      $scope.awesomeThings.reverse();
+    };
   });
