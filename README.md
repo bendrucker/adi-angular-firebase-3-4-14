@@ -1,3 +1,5 @@
+### [Slides](http://www.slideshare.net/bendrucker/building-awesome-apps-with-angular-and-firebase)
+
 ## Getting Started with Angular
 
 To create your skeleton app: 
