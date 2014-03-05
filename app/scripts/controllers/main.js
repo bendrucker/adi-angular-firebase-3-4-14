@@ -8,7 +8,12 @@ angular.module('adiApp')
       'Karma'
     ];
 
-    $scope.reverseThings = function () {
-      $scope.awesomeThings.reverse();
+    $scope.addThing = function (thing) {
+      $scope.awesomeThings.push(thing);
+      $scope.newThing = '';
+    };
+
+    $scope.isNew = function (thing) {
+      return thing.indexOf('new') !== -1;
     };
   });
