@@ -1,5 +1,7 @@
 ### [Slides](http://www.slideshare.net/bendrucker/building-awesome-apps-with-angular-and-firebase)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/adi-angular-firebase-3-4-14.svg)](https://greenkeeper.io/)
+
 ## Getting Started with Angular
 
 To create your skeleton app: 
